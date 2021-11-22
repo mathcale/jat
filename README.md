@@ -2,6 +2,8 @@
 
 A command-line tool to visualize a JWT token's content, written in Go.
 
+[![.github/workflows/build.yml](https://github.com/mathcale/jat/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mathcale/jat/actions/workflows/build.yml)
+
 ## Usage
 
 ```sh
