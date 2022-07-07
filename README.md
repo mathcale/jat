@@ -17,3 +17,9 @@ jat <some-jwt>
 3. Decompress the archive and place its content on a directory of your choice (preferably `$HOME/.local/bin`);
 4. _(Optional)_ Add this directory to PATH, if it's not already;
 5. Done!
+
+## Running locally
+
+1. Clone this repository;
+2. Compile the program with `make build`;
+3. A fresh new binary will be outputted to the `bin` directory, and you can run it with `./bin/jat`;
