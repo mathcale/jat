@@ -19,7 +19,6 @@ func main() {
 
 	if tokenString == "" {
 		log.Fatalf("No token provided!\n")
-		os.Exit(2)
 	}
 
 	parseResult := jwt.Parse(tokenString)
